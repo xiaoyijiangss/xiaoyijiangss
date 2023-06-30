@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoyijiangss, welcome to my space.  
-- 👀 I’m interested in creating scirpts.  
-- 🌱 I’m currently learning Python, Go, GUI
+- 👀 I’m interested in scirpts languges.    
+- 🌱 I’m currently learning Python, Go, GUI.
 
 
 <!---
